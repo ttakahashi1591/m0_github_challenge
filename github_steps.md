@@ -12,3 +12,5 @@ Describe in your own words how to establish a connection between a local reposit
     - Add 
     - Commit
 - Use the command `git push` to save changes in GitHub and refresh your browser to see the updated commitment. 
+
+![githublogo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
